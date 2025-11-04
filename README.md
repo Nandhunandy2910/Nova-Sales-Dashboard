@@ -89,7 +89,7 @@ Expand model-wise and regional insights for deeper business analysis.
 
 Enhance visual design and interactivity to improve user engagement and decision-making.
 
-## Acknowledgements
+## ✋🤚 Acknowledgements
 
 Dataset source: Generated with the assistance of ChatGPT (OpenAI)
 Tool: Microsoft Power BI
