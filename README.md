@@ -29,4 +29,7 @@ GitHub – Version control and project documentation
 
 ## Power Query Page
 
-<img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/Power%20query.png">
+<img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/Quality%20check.png">
+
+
+
