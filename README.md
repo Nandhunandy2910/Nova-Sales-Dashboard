@@ -29,4 +29,7 @@ GitHub – Version control and project documentation
 
 ## Power Query Page
 
-![Power Query Page](images/PowerQuery_Page.png)
+<h3 align="left">🔧 Power Query Setup</h3>
+<p align="center">
+  <img src="images/PowerQuery_Page.png" width="600">
+</p>
