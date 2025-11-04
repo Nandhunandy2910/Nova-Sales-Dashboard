@@ -30,7 +30,6 @@ GitHub – Version control and project documentation
 ## Power Query Page
 
 <img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/Quality%20check.png">
-<img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/DAX%20Measures(1).png">
 
 ## 🚗Power BI Dashboard
 
