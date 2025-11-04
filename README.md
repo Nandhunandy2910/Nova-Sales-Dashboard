@@ -65,6 +65,35 @@ Modern UI: dark theme, rounded visuals, clean layout
 
 Drill-down enabled.
 
+## 📈 4. Overall Insights
+
+2021 had the highest total sales.
+
+White & Silver are top-selling colors.
+
+Small deal sizes dominate (~55% of total sales).
+
+Europe & North America lead in regional sales.
+
+Consistent brand growth across all NOVA models.
+
+## 🚀 Future Use & Goals
+
+Integrate real-time data sources to monitor live sales performance.
+
+Automate data refresh and reporting for seamless monthly updates.
+
+Implement predictive analytics to forecast future sales and trends.
+
+Expand model-wise and regional insights for deeper business analysis.
+
+Enhance visual design and interactivity to improve user engagement and decision-making.
+
+## Acknowledgements
+
+Dataset source: Generated with the assistance of ChatGPT (OpenAI)
+Tool: Microsoft Power BI
+
 
 
 
