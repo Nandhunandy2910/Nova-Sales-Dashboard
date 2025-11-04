@@ -29,7 +29,4 @@ GitHub – Version control and project documentation
 
 ## Power Query Page
 
-<h3 align="left">🔧 Power Query Setup</h3>
-<p align="center">
-  <img src="images/Quality check.png" width="600">
-</p>
+<img src="https://github.com/Nandhunandy2910/GoldPulse-Analysis/blob/main/Power%20query.png">
