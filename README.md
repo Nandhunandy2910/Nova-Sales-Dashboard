@@ -31,6 +31,14 @@ GitHub – Version control and project documentation
 
 <img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/Quality%20check.png">
 
+## 🚗Power BI Dashboard
+
+### NOVA Sales Dashboard Preview
+
+<a href="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/NOVA%20Sales%20Dashboard.pbix">NOVA Sales Dashboard.pbix</a>
+
+## Dashboard helps to analyze car sales performance and identify key trends for informed business decisions.
+
 ## 🌟 3. Key Features of Dashboard
 
 Model-wise pages: MDX, INTEGRA, AURORA, HYDRA
@@ -53,11 +61,7 @@ Modern UI: dark theme, rounded visuals, clean layout
 
 Drill-down enabled.
 
-## 🚗Power BI Dashboard
 
-### NOVA Sales Dashboard Preview
-
-<a href="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/NOVA%20Sales%20Dashboard.pbix">NOVA Sales Dashboard.pbix</a>
 
 
 
