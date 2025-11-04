@@ -31,7 +31,7 @@ GitHub – Version control and project documentation
 
 <img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/Quality%20check.png">
 
-## 🧮 DAX Measures Used
+## 🧮 DAX Measures 
 
 Calculated Total Sales using SUM()
 
