@@ -31,6 +31,18 @@ GitHub – Version control and project documentation
 
 <img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/Quality%20check.png">
 
+## 🧮 DAX Measures Used
+
+Calculated Total Sales using SUM()
+
+Counted Total Orders and Customers using DISTINCTCOUNT()
+
+Created Deal Size counts with CALCULATE() filters
+
+Added Sales by Year and Sales Count for trend analysis
+
+Formatted all measures for clear and readable visuals
+
 ## 🚗Power BI Dashboard
 
 ### NOVA Sales Dashboard Preview
