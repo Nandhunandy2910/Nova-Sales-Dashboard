@@ -53,5 +53,11 @@ Modern UI: dark theme, rounded visuals, clean layout
 
 Drill-down enabled.
 
+## 🚗Power BI Dashboard
+
+### NOVA Sales Dashboard Preview
+
+-<a href="https://github.com/Nandhunandy2910/GoldPulse-Analysis/blob/main/GOLDPULSE%20ANALYSIS.pbix">GoldPuls Analysis<a/>
+
 
 
