@@ -31,5 +31,27 @@ GitHub – Version control and project documentation
 
 <img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/Quality%20check.png">
 
+## 🌟 3. Key Features of Dashboard
+
+Model-wise pages: MDX, INTEGRA, AURORA, HYDRA
+
+KPI cards: Total Sales, Orders, and Customers
+
+Interactive visuals:
+
+Sales by Year
+
+Sales by Country (Map)
+
+Sales by Paint Color
+
+Sales by Deal Size
+
+Navigation bar for model switching (MDX → INTEGRA → etc.)
+
+Modern UI: dark theme, rounded visuals, clean layout
+
+Drill-down enabled.
+
 
 
