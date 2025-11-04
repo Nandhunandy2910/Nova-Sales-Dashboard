@@ -57,7 +57,7 @@ Drill-down enabled.
 
 ### NOVA Sales Dashboard Preview
 
--<a href="https://github.com/Nandhunandy2910/GoldPulse-Analysis/blob/main/GOLDPULSE%20ANALYSIS.pbix">GoldPuls Analysis<a/>
+<a href="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/NOVA%20Sales%20Dashboard.pbix">NOVA Sales Dashboard.pbix</a>
 
 
 
