@@ -31,5 +31,5 @@ GitHub – Version control and project documentation
 
 <h3 align="left">🔧 Power Query Setup</h3>
 <p align="center">
-  <img src="images/PowerQuery_Page.png" width="600">
+  <img src="images/" width="600">
 </p>
