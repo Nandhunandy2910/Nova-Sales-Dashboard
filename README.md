@@ -38,6 +38,10 @@ GitHub – Version control and project documentation
 <a href="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/NOVA%20Sales%20Dashboard.pbix">NOVA Sales Dashboard.pbix</a>
 
 ## Dashboard helps to analyze car sales performance and identify key trends for informed business decisions.
+<img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/MDX.png">
+<img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/AURORA.png">
+<img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/INTEGRA.png">
+<img src="https://github.com/Nandhunandy2910/Nova-Sales-Dashboard/blob/main/HYDRA.png">
 
 ## 🌟 3. Key Features of Dashboard
 
